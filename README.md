@@ -8,7 +8,5 @@ You can connect multiple clients using the same server.
 
 ---
 
-<img src="/images/ChatServerIMG.png" alt="Chat Server" height="50%">
-<img src="/images/ChatClientIMG.png" alt="Chat Server" height="50%">
-
+<img src="/images/ChatServerIMG.png" alt="Chat Server" width=48%> <img src="/images/ChatClientIMG.png" alt="Chat Server" width=49%>
 ---
