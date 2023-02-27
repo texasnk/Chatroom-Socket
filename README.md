@@ -1,10 +1,8 @@
 # 💬 Chatroom Socket
 
-> Chatroom between a client and a server, using WinForms interface.
+> This is a study project for a chatroom application that allows clients and servers to communicate through a client-server architecture using C# sockets and a WinForms interface. The application is designed as a text-based chatroom, enabling users to exchange messages with each other in real-time.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/texasnk/Chatroom-Socket?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/top/texasnk/Chatroom-Socket?style=for-the-badge)
-
-You can connect multiple clients using the same server.
 
 ---
 
